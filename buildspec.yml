@@ -12,4 +12,4 @@ phases:
     - mvn package
 artifacts:
   files:
-  - target/AWS-CodeBuild-CICD-Demo.jar
+  - target/my-app-1.0-SNAPSHOT.jar
